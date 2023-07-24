@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BackEndAPI.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "BackEndAPI.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "BackEndAPI.Domain.Interface.dll": {}
+        }
+      },
+      "BackEndAPI.Domain.Entity/1.0.0": {
+        "runtime": {
+          "BackEndAPI.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEndAPI.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEndAPI.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

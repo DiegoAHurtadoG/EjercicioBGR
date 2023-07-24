@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Repository\\BackEndAPI.Domain.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\BackEndAPI.Domain.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\BackEndAPI.Domain.Data.csproj",
+        "projectName": "BackEndAPI.Domain.Data",
+        "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\BackEndAPI.Domain.Data.csproj",
+        "packagesPath": "C:\\Users\\GILAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GILAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj": {
+                "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj",
+        "projectName": "BackEndAPI.Domain.Entity",
+        "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\GILAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GILAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\BackEndAPI.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\BackEndAPI.Domain.Interface.csproj",
+        "projectName": "BackEndAPI.Domain.Interface",
+        "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\BackEndAPI.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\GILAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GILAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj": {
+                "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Entity\\BackEndAPI.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Repository\\BackEndAPI.Domain.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Repository\\BackEndAPI.Domain.Repository.csproj",
+        "projectName": "BackEndAPI.Domain.Repository",
+        "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Repository\\BackEndAPI.Domain.Repository.csproj",
+        "packagesPath": "C:\\Users\\GILAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GILAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\BackEndAPI.Domain.Data.csproj": {
+                "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Data\\BackEndAPI.Domain.Data.csproj"
+              },
+              "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\BackEndAPI.Domain.Interface.csproj": {
+                "projectPath": "D:\\Diego Hurtado\\Nueva carpeta\\EjercicioBGR\\BackEndAPI\\BackEndAPI.Domain.Interface\\BackEndAPI.Domain.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

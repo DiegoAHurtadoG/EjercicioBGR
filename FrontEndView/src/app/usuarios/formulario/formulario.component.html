@@ -1,0 +1,21 @@
+<h3>Usuario</h3>
+<hr />
+<form [formGroup]="usuarioForm" (ngSubmit)="submit()" class="form-control">
+    <div class="form-group" *ngIf="usuarioForm.controls['id'].value != 0">
+        <label for="Id">Id</label>
+        <input formControlName="id" class="form-control" id="Id" placeholder="Id" readonly>
+    </div>
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input formControlName="nombre" class="form-control" id="Nombre" placeholder="Nombre">
+    </div>
+    <div class="form-group">
+        <label for="Correo">Correo</label>
+        <input formControlName="correo" class="form-control" id="Correo" placeholder="Correo">
+    </div>
+    <div class="form-group">
+        <label for="Teléfono">Teléfono</label>
+        <input formControlName="telefono" class="form-control" id="Teléfono" placeholder="Teléfono">
+    </div>
+    <button class="btn btn-success">Enviar</button>
+</form> 

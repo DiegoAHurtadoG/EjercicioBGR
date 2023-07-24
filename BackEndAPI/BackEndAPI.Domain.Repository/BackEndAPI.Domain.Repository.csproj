@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackEndAPI.Domain.Data\BackEndAPI.Domain.Data.csproj" />
+    <ProjectReference Include="..\BackEndAPI.Domain.Interface\BackEndAPI.Domain.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

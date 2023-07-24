@@ -1,0 +1,15 @@
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\BackEndAPI.Domain.Interface.deps.json
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\BackEndAPI.Domain.Interface.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\ref\BackEndAPI.Domain.Interface.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\BackEndAPI.Domain.Interface.pdb
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\BackEndAPI.Domain.Entity.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\bin\Debug\net6.0\BackEndAPI.Domain.Entity.pdb
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.csproj.AssemblyReference.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.AssemblyInfoInputs.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.AssemblyInfo.cs
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.csproj.CopyComplete
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\ref\BackEndAPI.Domain.Interface.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Interface\obj\Debug\net6.0\BackEndAPI.Domain.Interface.pdb

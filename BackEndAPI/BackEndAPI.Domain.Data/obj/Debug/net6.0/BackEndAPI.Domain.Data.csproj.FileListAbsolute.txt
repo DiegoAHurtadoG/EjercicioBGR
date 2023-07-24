@@ -1,0 +1,17 @@
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Data.deps.json
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Data.runtimeconfig.json
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Data.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\ref\BackEndAPI.Domain.Data.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Data.pdb
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Entity.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\bin\Debug\net6.0\BackEndAPI.Domain.Entity.pdb
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.csproj.AssemblyReference.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.AssemblyInfoInputs.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.AssemblyInfo.cs
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.csproj.CoreCompileInputs.cache
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.csproj.CopyComplete
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\ref\BackEndAPI.Domain.Data.dll
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.pdb
+D:\Diego Hurtado\Nueva carpeta\EjercicioBGR\BackEndAPI\BackEndAPI.Domain.Data\obj\Debug\net6.0\BackEndAPI.Domain.Data.genruntimeconfig.cache

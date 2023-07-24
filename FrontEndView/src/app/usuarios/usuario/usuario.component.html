@@ -1,0 +1,25 @@
+<h3>Lista de Usuarios</h3>
+<hr />
+<a class="btn btn-info" [routerLink]="['formulario', 0]">Nuevo</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th *ngFor="let colum of columnas">
+                {{colum.toUpperCase()}}
+            </th>
+            <th>OPCIONES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let usuario of usuarios">
+            <td>{{usuario.id}}</td>
+            <td>{{usuario.nombre}}</td>
+            <td>{{usuario.correo}}</td>
+            <td>{{usuario.telefono}}</td>
+            <td>
+                <a class="btn btn-primary" [routerLink]="['formulario', usuario.id]">Editar</a>
+                <button type="button" (click)="eliminar(usuario.id)" class="btn btn-warning">Eliminar</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
